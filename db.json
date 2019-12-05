@@ -1,0 +1,16 @@
+{
+    "restaurant": [
+        {
+            "precioPlatillo": "200",
+            "nombrePlatillo": "Cheesecake",
+            "categoria": "postres",
+            "id": 1
+        },
+        {
+            "precioPlatillo": "150",
+            "nombrePlatillo": "Milanesa",
+            "categoria": "segundo",
+            "id": 2
+        }
+    ]
+}
