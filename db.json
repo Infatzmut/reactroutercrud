@@ -1,16 +1,40 @@
 {
-    "restaurant": [
-        {
-            "precioPlatillo": "200",
-            "nombrePlatillo": "Cheesecake",
-            "categoria": "postres",
-            "id": 1
-        },
-        {
-            "precioPlatillo": "150",
-            "nombrePlatillo": "Milanesa",
-            "categoria": "segundo",
-            "id": 2
-        }
-    ]
+  "restaurant": [
+    {
+      "precioPlatillo": "20",
+      "nombrePlatillo": "Cheeseburguer",
+      "categoria": "postre",
+      "id": 1
+    },
+    {
+      "precioPlatillo": "150",
+      "nombrePlatillo": "Milanesa",
+      "categoria": "cortes",
+      "id": 2
+    },
+    {
+      "precioPlatillo": "149",
+      "nombrePlatillo": "ensalada",
+      "categoria": "ensalada",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "ensalada primavera",
+      "precioPlatillo": "15",
+      "categoria": "ensalada",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "Pastel de zanahoria",
+      "precioPlatillo": "80",
+      "categoria": "postre",
+      "id": 5
+    },
+    {
+      "nombrePlatillo": "Ensalada de pollo",
+      "precioPlatillo": "100",
+      "categoria": "ensalada",
+      "id": 6
+    }
+  ]
 }
